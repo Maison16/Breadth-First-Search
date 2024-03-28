@@ -1,0 +1,7 @@
+C:\Users\mateu\source\repos\KolejeAutobusyBFS\KolejeAutobusyBFS\bin\Debug\KolejeAutobusyBFS.exe.config
+C:\Users\mateu\source\repos\KolejeAutobusyBFS\KolejeAutobusyBFS\bin\Debug\KolejeAutobusyBFS.exe
+C:\Users\mateu\source\repos\KolejeAutobusyBFS\KolejeAutobusyBFS\bin\Debug\KolejeAutobusyBFS.pdb
+C:\Users\mateu\source\repos\KolejeAutobusyBFS\KolejeAutobusyBFS\obj\Debug\KolejeAutobusyBFS.csproj.AssemblyReference.cache
+C:\Users\mateu\source\repos\KolejeAutobusyBFS\KolejeAutobusyBFS\obj\Debug\KolejeAutobusyBFS.csproj.CoreCompileInputs.cache
+C:\Users\mateu\source\repos\KolejeAutobusyBFS\KolejeAutobusyBFS\obj\Debug\KolejeAutobusyBFS.exe
+C:\Users\mateu\source\repos\KolejeAutobusyBFS\KolejeAutobusyBFS\obj\Debug\KolejeAutobusyBFS.pdb
